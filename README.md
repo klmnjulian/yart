@@ -8,6 +8,8 @@ yart is a ***low productivity***, ***low fidelity***, ***low customizablity*** t
 - Written in Rust
 - Thats all, I'm afraid...
 
+![Screenshot 1](screenshots/screen1.png)
+![Screenshot 2](screenshots/screen2.png)
 
 
 ### Supported Platforms
